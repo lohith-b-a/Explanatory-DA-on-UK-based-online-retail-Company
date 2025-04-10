@@ -33,4 +33,4 @@ The analysis focused on understanding key trends and business patterns by addres
 
 ## Author
 Lohith Basavanahalli Anjinappa  
-This project was performed as part of a **data consultancy simulation**, using **explanatory data analysis** to provide the retailer with business intelligence to improve decision-making across inventory, pricing, and marketing strategies.
+
